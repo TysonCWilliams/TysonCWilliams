@@ -2,6 +2,10 @@
 Job Search Spread Sheet-
 link:
 https://docs.google.com/spreadsheets/d/1qL6UtscvA4_5yVuUQp-EAHbqeegsyR8IpF782qu8Yh8/edit?usp=sharing
+ 
+ Linked-In Profile-
+ Link:
+ https://www.linkedin.com/in/tysonchadwilliams/
 
 <!--
 **TysonCWilliams/TysonCWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Job Search Spread Sheet:
+Job Search Spread Sheet-
 link:
 https://docs.google.com/spreadsheets/d/1qL6UtscvA4_5yVuUQp-EAHbqeegsyR8IpF782qu8Yh8/edit?usp=sharing
 
 
+Linked-In Profile-
+Link:
+https://www.linkedin.com/in/tysonchadwilliams/
 
 -->

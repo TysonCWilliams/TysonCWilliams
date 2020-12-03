@@ -1,5 +1,5 @@
 ### Hi there 👋
-Job Search Spread Sheet:
+Job Search Spread Sheet-
 link:
 https://docs.google.com/spreadsheets/d/1qL6UtscvA4_5yVuUQp-EAHbqeegsyR8IpF782qu8Yh8/edit?usp=sharing
 

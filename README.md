@@ -1,10 +1,10 @@
-### Hi there, I'm Tyson 👋
+Hi there, I'm Tyson 👋
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Docker/Angular/React/Cloud-functions/
 - ⚡ Fun fact: I play guitar/love to travel
  
-###Connect with me on LinkedIn:
+Connect with me on LinkedIn:
 
  https://www.linkedin.com/in/tysonchadwilliams/
  

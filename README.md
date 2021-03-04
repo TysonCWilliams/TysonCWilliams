@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Tyson 👋
+
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Docker/Angular/React/Cloud-functions/
+- ⚡ Fun fact: I play guitar/love to travel
  
  Linked-In Profile-
  Link:
@@ -12,20 +16,5 @@
 <!--
 **TysonCWilliams/TysonCWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Linked-In Profile-
-Link:
-https://www.linkedin.com/in/tysonchadwilliams/
 
 -->

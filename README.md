@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Docker/Angular/React/Cloud-functions/
 - ⚡ Fun fact: I play guitar/love to travel
  
- Linked-In Profile-
- Link:
+###Connect with me on LinkedIn:
+
  https://www.linkedin.com/in/tysonchadwilliams/
  
  Landing-Page/Portfolio

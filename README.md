@@ -1,5 +1,8 @@
 Hi there, I'm Tyson 👋
 
+Check out my portfolio here!
+https://tysoncwilliams.github.io/#/
+
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Docker/Angular/React/Cloud-functions/
 - ⚡ Fun fact: I play guitar and ove to travel 🤙 
